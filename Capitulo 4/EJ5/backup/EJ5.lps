@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ5.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="5"/>
+        <CursorPos X="11" Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="8" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="19" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="7" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="19" Column="55"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="14" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="8" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="3" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="12" Column="34"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="3" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="6" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="15" Column="56"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="16" Column="65"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

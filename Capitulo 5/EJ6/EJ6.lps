@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ6.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos X="13" Y="34"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Frases.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="18"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="11" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="16" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="19" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="23" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="39" Column="20" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="5" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="24" Column="9" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="40" Column="43" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ6.lpr"/>
+        <Caret Line="60" Column="76" TopLine="37"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

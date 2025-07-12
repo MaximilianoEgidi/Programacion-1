@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="HomeBanking.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="69"/>
+        <CursorPos X="54" Y="90"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Bank.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="9" Y="7"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="13" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="8" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="11" Column="83"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="29" Column="50"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="18" Column="7" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="34" Column="58" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="51" Column="41" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="35" Column="45" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="48" Column="5" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="44" Column="15" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="54" Column="18" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="49" Column="72" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="73" Column="60" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="78" Column="38" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="HomeBanking.lpr"/>
+        <Caret Line="90" Column="54" TopLine="68"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

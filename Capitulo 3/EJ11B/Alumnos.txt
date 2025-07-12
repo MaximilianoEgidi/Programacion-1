@@ -1,0 +1,3 @@
+Agustin         9 8 10
+Maxi            2 4 8
+Barto           10 10 9

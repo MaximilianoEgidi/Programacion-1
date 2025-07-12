@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ10.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="7" Y="22"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Datos.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="6" Y="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="9" Column="43"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="46" Column="29" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="40" Column="18" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="41" Column="27" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="43" Column="16" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="31" Column="5" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="34" Column="43" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="33" Column="26" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="25" Column="69" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="52" Column="39" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="25" Column="63" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="32" Column="14" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="45" Column="14" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ10.lpr"/>
+        <Caret Line="61" Column="39" TopLine="39"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

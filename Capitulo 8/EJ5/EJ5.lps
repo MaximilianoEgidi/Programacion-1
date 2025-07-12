@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ5.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="50"/>
+        <CursorPos X="6" Y="62"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Datos.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="14"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="14" Column="3" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="13" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="37" Column="5" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="35" Column="37" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="23" Column="25" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="36" Column="13" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="39" Column="50" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="37" Column="10" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="45" Column="31" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="37" Column="49" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="38" Column="20" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="37" Column="21" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="38" Column="19" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="45" Column="42" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="44" Column="29" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="45" Column="40" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="53" Column="31" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="39" Column="50" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="44" Column="23" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="45" Column="8" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="54" Column="27" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="59" Column="42" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="50" Column="63" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="59" Column="36" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="69" Column="31" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="51" Column="6" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="68" Column="30" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="50" Column="50" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="53" Column="10" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ5.lpr"/>
+        <Caret Line="55" Column="2" TopLine="40"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

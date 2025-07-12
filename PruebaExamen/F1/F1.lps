@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="F1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="131"/>
+        <CursorPos X="54" Y="142"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Datos.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="21" Y="11"/>
+        <UsageCount Value="17"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="17" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="18" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="17" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="32" Column="34" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="17" Column="7" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="27" Column="19" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="Datos.txt"/>
+        <Caret Line="11" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="48" Column="84" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="35" Column="22" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="48" Column="75" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="58" Column="80" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="68" Column="18" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="62" Column="48" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="68" Column="18" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="69" Column="7" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="76" Column="29" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="90" Column="35" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="88" Column="12" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="73" Column="24" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="97" Column="7" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="113" Column="11" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="94" Column="62" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="101" Column="21" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="136" Column="56" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="94" Column="49" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="97" Column="23" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="149" Column="66" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="139" Column="4" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="148" Column="30" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="F1.lpr"/>
+        <Caret Line="141" Column="23" TopLine="130"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

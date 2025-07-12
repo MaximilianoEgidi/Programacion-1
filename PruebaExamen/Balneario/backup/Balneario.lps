@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Balneario.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="5" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Alquileres.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="15" Y="7"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="8" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="14" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="10" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="24" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="27" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="Alquileres.txt"/>
+        <Caret Line="2" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="28" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="23" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="Alquileres.txt"/>
+        <Caret Line="7" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="23" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="26" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="27" Column="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="33" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="15" Column="30" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="Balneario.lpr"/>
+        <Caret Line="17" Column="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="85"/>
+        <CursorPos X="147" Y="102"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Datos.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3" Y="5"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="25">
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="15" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="20" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="15" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="14" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="28" Column="38" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="30" Column="3" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="21" Column="31" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="25" Column="48" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="31" Column="50" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="32" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="30" Column="29" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="21" Column="10" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="32" Column="21" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="39" Column="31" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="13" Column="13" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="41" Column="61" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="39" Column="8" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="25" Column="11" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="46" Column="37" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="48" Column="5" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="46" Column="49" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="48" Column="23" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="57" Column="28" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="88" Column="7" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="78" Column="23" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ3.lpr"/>
+        <Caret Line="82" Column="19" TopLine="68"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

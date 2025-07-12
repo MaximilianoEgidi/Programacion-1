@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Lactea.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="78"/>
+        <CursorPos X="86" Y="97"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Datos.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="2" Y="4"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="32" Column="11" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="31" Column="21" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="32" Column="11" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="23" Column="12" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="14" Column="15" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="32" Column="5" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="15" Column="23" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="29" Column="23" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="32" Column="39" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="30" Column="23" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="32" Column="11" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="31" Column="21" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="Datos.txt"/>
+        <Caret Line="2" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="32" Column="16" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="10" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="48" Column="17" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="18" Column="17" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="14" Column="5" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="18" Column="15" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="61" Column="8" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="10" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="58" Column="18" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="67" Column="79" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="48" Column="62" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="77" Column="35" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="66" Column="62" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="84" Column="8" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="86" Column="40" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="108" Column="18" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="Lactea.lpr"/>
+        <Caret Line="12" Column="17"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

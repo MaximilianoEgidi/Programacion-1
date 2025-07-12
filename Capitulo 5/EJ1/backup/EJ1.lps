@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="53"/>
+        <CursorPos X="11" Y="22"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="16" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="15" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="18" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="16" Column="27"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="8" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="7" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="22" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="18" Column="12" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="11" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="3" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="5" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="3" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="26" Column="15" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="37" Column="4" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="5" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="33" Column="56" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="34" Column="57" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="32" Column="13" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="25" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="23" Column="31" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="46" Column="38" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="40" Column="5" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="66" Column="37" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="51" Column="20" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="55" Column="40" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="58" Column="22" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="79" Column="46" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="58" Column="33" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="60" Column="27" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ1.lpr"/>
+        <Caret Line="58" Column="27" TopLine="45"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

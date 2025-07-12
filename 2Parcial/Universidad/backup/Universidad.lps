@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Universidad.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="231"/>
+        <CursorPos X="5" Y="264"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Inscriptos.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="15" Y="3"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Provincias.txt"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="37" Y="3"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="Universidad.lpr"/>
+        <Caret Line="7" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="Universidad.lpr"/>
+        <Caret Line="26" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="Universidad.lpr"/>
+        <Caret Line="35" Column="12" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="Universidad.lpr"/>
+        <Caret Line="36" Column="69" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Universidad.lpr"/>
+        <Caret Line="35" Column="7" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Universidad.lpr"/>
+        <Caret Line="42" Column="83" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="Provincias.txt"/>
+        <Caret Line="3" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="Universidad.lpr"/>
+        <Caret Line="31" Column="3" TopLine="4"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

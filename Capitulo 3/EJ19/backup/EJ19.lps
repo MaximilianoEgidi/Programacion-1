@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ19.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="maxconjunto"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="10" Y="48"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Numeros.txt"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="16">
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="12" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="3" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="17" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="5" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="15" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="18" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="23" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="22" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="5" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="15" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="18" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="51" Column="19" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="5" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="50" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="45" Column="2" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="35" Column="34" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ19.lpr"/>
+        <Caret Line="45" Column="2" TopLine="12"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

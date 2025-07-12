@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="SuperMercado.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="64"/>
+        <CursorPos X="24" Y="68"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Datos.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="39" Y="10"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="15" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="25" Column="8" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="20" Column="18" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="29" Column="15" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="36" Column="24" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="32" Column="25" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="49" Column="51" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="48" Column="20" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="51" Column="5" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="49" Column="65" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="Datos.txt"/>
+        <Caret Line="9" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="65" Column="40" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="SuperMercado.lpr"/>
+        <Caret Line="88" Column="55" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="Datos.txt"/>
+        <Caret Line="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

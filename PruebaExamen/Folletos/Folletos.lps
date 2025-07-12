@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Folletos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Parcial"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="60"/>
+        <CursorPos X="33" Y="93"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="19">
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="9" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="13" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="20" Column="3" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="12" Column="70"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="16" Column="6" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="56" Column="23" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="62" Column="41" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="10" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="60" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="13" Column="71"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="55" Column="7" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="60" Column="11" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="17" Column="5" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="13" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="42" Column="26" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="92" Column="36" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="91" Column="10" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="93" Column="35" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="92" Column="35" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="Folletos.lpr"/>
+        <Caret Line="90" Column="6" TopLine="60"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

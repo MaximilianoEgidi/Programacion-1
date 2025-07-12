@@ -1,0 +1,4 @@
+3
+Red       3 G G P
+Blue      2 G E
+Green     3 P E G

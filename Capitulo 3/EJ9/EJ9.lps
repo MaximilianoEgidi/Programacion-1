@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ9.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="31" Y="22"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Numeros.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3" Y="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="9">
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="8" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="12" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="11" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="15" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="5" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="21" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="17" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="6" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ9.lpr"/>
+        <Caret Line="19" Column="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

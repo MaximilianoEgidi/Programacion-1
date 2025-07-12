@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ8.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="33"/>
+        <CursorPos X="6" Y="43"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="9">
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="7" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="17" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="19" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="24" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="12" Column="19" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="34" Column="12" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="31" Column="36" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="40" Column="26" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="49" Column="18" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="44" Column="14" TopLine="36"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

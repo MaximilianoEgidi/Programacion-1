@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ15.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="18"/>
+        <CursorPos X="8" Y="40"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Palabras.txt"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="EJ15.lpr"/>
+        <Caret Line="16" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ15.lpr"/>
+        <Caret Line="6" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ15.lpr"/>
+        <Caret Line="24" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ15.lpr"/>
+        <Caret Line="22" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ15.lpr"/>
+        <Caret Line="15" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ15.lpr"/>
+        <Caret Line="32" Column="17" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ15.lpr"/>
+        <Caret Line="40" Column="30" TopLine="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

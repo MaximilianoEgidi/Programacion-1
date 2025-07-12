@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="28"/>
+        <CursorPos X="13" Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Numeros.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="2" Y="10"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="4" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="16" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="9" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="13" Column="14" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="45" Column="18" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="15" Column="28" TopLine="7"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

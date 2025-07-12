@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ14.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="37" Y="11"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="13" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="3" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="15" Column="71"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="16" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="17" Column="19" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="14" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="6" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="15" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="18" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="21" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="11" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ14.lpr"/>
+        <Caret Line="7" Column="15"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

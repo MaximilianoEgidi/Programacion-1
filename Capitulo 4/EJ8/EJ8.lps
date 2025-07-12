@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ8.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos X="13" Y="41"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Tarjetas.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="8" Y="9"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="22">
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="15" Column="25" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="10" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="17" Column="16" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="21" Column="9" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="17" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="15" Column="7" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="20" Column="35"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="19" Column="41" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="8" Column="13" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="29" Column="9" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="30" Column="7" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="Tarjetas.txt"/>
+        <Caret Line="4" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="30" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="Tarjetas.txt"/>
+        <Caret Line="5" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="Tarjetas.txt"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="Tarjetas.txt"/>
+        <Caret Line="5" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="20" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Tarjetas.txt"/>
+        <Caret Line="8" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="29" Column="22" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="23" Column="17" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="11" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ8.lpr"/>
+        <Caret Line="45" Column="67" TopLine="31"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="WorkingDirectory" Type="File" Count="1"/>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="1"/>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ16.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="9"/>
+        <CursorPos X="81" Y="29"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Empresa.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="10" Y="3"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="EJ16.lpr"/>
+        <Caret Line="10" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ16.lpr"/>
+        <Caret Line="16" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ16.lpr"/>
+        <Caret Line="17" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ16.lpr"/>
+        <Caret Line="5" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ16.lpr"/>
+        <Caret Line="9" Column="20" TopLine="4"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

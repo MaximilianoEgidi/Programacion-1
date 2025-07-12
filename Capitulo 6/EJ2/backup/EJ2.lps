@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="14"/>
+        <CursorPos Y="28"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Datos.txt"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="16" Y="4"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="20">
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="12" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="11" Column="89"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="26" Column="49"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="29" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="4" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="8" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="13" Column="10" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="23" Column="21" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="Datos.txt"/>
+        <Caret Line="4" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="49" Column="30" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="39" Column="22" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="36" Column="40" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="8" Column="25" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="69" Column="28" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="75" Column="42" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="60" Column="72" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="77" Column="25" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="76" Column="19" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="82" Column="42" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ2.lpr"/>
+        <Caret Line="80" Column="48" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="Datos.txt"/>
+        <Caret Column="2"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

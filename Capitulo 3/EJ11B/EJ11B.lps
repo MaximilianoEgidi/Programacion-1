@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJ11B.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="EJ7"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="7"/>
+        <CursorPos X="16" Y="24"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Alumnos.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="24" Y="3"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="EJ11B.lpr"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ11B.lpr"/>
+        <Caret Line="15" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ11B.lpr"/>
+        <Caret Line="16" Column="51" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ11B.lpr"/>
+        <Caret Line="15" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ11B.lpr"/>
+        <Caret Line="5" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ11B.lpr"/>
+        <Caret Line="15" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ11B.lpr"/>
+        <Caret Line="18" Column="63"/>
+      </Position>
+      <Position>
+        <Filename Value="EJ11B.lpr"/>
+        <Caret Line="20" Column="66" TopLine="9"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
